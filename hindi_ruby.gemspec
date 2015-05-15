@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "hindi_ruby"
-  spec.version       = "0.0.1"
+  spec.version       = "0.0.2"
   spec.authors       = ["Mahesh Baheti"]
   spec.email         = ["mahsh.baheti@gmail.com"]
   spec.summary       = %q{A collection of hindi words for ruby methods}
