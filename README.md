@@ -1,4 +1,4 @@
-# hindi-ruby
+# hindi_ruby
 Inspired by: https://github.com/sferik/active_emoji
 
 Write ruby code in hindi.
